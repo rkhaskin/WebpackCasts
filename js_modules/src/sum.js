@@ -1,5 +1,5 @@
 const sum = (a, b) => a + b;
-// test comment
+// test comment again
 export default sum;
 
 // add comment
